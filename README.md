@@ -1,0 +1,6 @@
+# 多级别/加权分红/推荐提成/什级奖 直销系统/软件/源码
+
+多级别/加权分红/推荐提成/什级奖直销系统/软件/源码<br>奖金计划如下：<br>　　一：会员条件：<br>　　普通会员：1单500元<br>　　一星会员：5单2500元<br>　　二星会员：20单10000元<br>　　三星会员：50单25000元<br>　　四星会员：150单75000元<br>　　五星会员：200单10000元<br>　　六星会员：500单250000元<br>　　七星会员：1500单750000元<br>　　二：提成：<br>　　推荐1单以上提成170元/单<br>　　推荐5单以上提成200元/单<br>　　推荐20单以上提成230元/单<br>　　推荐50单以上提成260元/单<br>　　推荐150单以上提成290元/单<br>　　推荐200单以上提成320元/单<br>　　推荐500单以上提成350元/单<br>　　推荐1500单以上提成380元/单<br>　　三：加权分红：成为七星会员后，享受公司总业绩10%的加权分红<br>　　四：什级奖：（补差什级，会员自动和后台人工什级）<br>　　什级一星会员：奖0元<br>　　什级二星会员：奖0元<br>　　什级三星会员：奖2024元<br>　　什级四星会员：奖3000元<br>　　什级五星会员：奖4000元<br>　　什级六星会员：奖5000元<br>　　什级七星会员：奖10000元<br>　　五：报单中心：报单奖10元，自激活和中心激活双功能<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/UzbVL" style="color: red;">https://mega-file.org/UzbVL</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
